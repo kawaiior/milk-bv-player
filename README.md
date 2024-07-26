@@ -6,7 +6,7 @@
 
 # 启动
 ```bash
-co dev
+npm run dev
 ```
 
 # 待办
